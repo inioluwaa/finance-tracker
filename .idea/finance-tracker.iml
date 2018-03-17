@@ -37,7 +37,6 @@
     <orderEntry type="library" scope="PROVIDED" name="bindex (v0.5.0, ruby-2.4.1-p111) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.3, ruby-2.4.1-p111) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.1, ruby-2.4.1-p111) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="byebug (v9.1.0, ruby-2.4.1-p111) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.2.2, ruby-2.4.1-p111) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.4.1, ruby-2.4.1-p111) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.12.2, ruby-2.4.1-p111) [gem]" level="application" />
@@ -82,7 +81,7 @@
     <orderEntry type="library" scope="PROVIDED" name="turbolinks (v5.1.0, ruby-2.4.1-p111) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="turbolinks-source (v5.1.0, ruby-2.4.1-p111) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.5, ruby-2.4.1-p111) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tzinfo-data (v1.2017.3, ruby-2.4.1-p111) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo-data (v1.2018.3, ruby-2.4.1-p111) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v4.1.8, ruby-2.4.1-p111) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="web-console (v3.5.1, ruby-2.4.1-p111) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.6.5, ruby-2.4.1-p111) [gem]" level="application" />
