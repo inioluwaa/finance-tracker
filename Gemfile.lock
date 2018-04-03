@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/codahale/bcrypt-ruby.git
+  revision: f2db689ba567d1a018f4dacb1ccf909adc93e887
+  specs:
+    bcrypt (3.1.11)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -41,7 +47,6 @@ GEM
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     arel (8.0.0)
-    bcrypt (3.1.11-x64-mingw32)
     bindex (0.5.0)
     builder (3.2.3)
     byebug (10.0.0)
@@ -199,7 +204,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  bcrypt
+  bcrypt!
   byebug
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
