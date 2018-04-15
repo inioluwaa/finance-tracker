@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b697c37-a7ad-4ba6-bbf9-dc157bc7f85b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/stock.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/stock.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="353">
@@ -72,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stock.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="stock.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/stock.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
@@ -106,9 +101,9 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/stocks_controller.rb" />
-        <option value="$PROJECT_DIR$/app/models/stock.rb" />
         <option value="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/app/models/stock.rb" />
       </list>
     </option>
   </component>
@@ -364,18 +359,18 @@
       <workItem from="1523688607425" duration="375000" />
       <workItem from="1523689107758" duration="33000" />
       <workItem from="1523720156582" duration="128000" />
-      <workItem from="1523824392622" duration="4938000" />
+      <workItem from="1523824392622" duration="5179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31114000" />
+    <option name="totallyTimeSpent" value="31355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30786687" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30786687" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50907713" side_tool="true" weight="0.32868218" />
@@ -384,7 +379,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32868218" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49092284" visible="true" weight="0.32868218" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49092284" visible="true" weight="0.32868218" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -731,13 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/stock.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -756,6 +744,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/stock.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
