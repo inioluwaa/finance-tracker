@@ -7,7 +7,7 @@ class Stock < ApplicationRecord
   end
 
   def strip_commas(number)
-    number.gsub(',', '')
+    number.tr(',', '')
   end
 
 end
