@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b697c37-a7ad-4ba6-bbf9-dc157bc7f85b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/stock.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/stock.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,25 +16,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stocks_controller.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stocks_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="240">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="users_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stock.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="stock.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/stock.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -45,8 +37,8 @@
       <file leaf-file-name="my_portfolio.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/users/my_portfolio.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+            <state relative-caret-position="64">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -68,12 +60,12 @@
         <option value="$PROJECT_DIR$/app/views/devise/shared/_links.html.erb" />
         <option value="$PROJECT_DIR$/db/migrate/20180403233935_create_stocks.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" />
-        <option value="$PROJECT_DIR$/app/models/stock.rb" />
         <option value="$PROJECT_DIR$/app/controllers/stocks_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/stock.rb" />
       </list>
     </option>
   </component>
@@ -83,7 +75,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="27" />
     <option name="y" value="132" />
     <option name="width" value="1346" />
@@ -95,7 +87,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,12 +190,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
-    <property name="SearchEverywhereHistoryKey" value="sch&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/db/schema.rb&#10;stock&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/models/stock.rb&#10;my&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/users/my_portfolio.html.erb&#10;rout&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;application.j&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/assets/javascripts/application.js&#10;appli&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/layouts/application.html.erb&#10;routes&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;route&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb" />
+    <property name="SearchEverywhereHistoryKey" value="routes&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;sch&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/db/schema.rb&#10;stock&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/models/stock.rb&#10;my&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/users/my_portfolio.html.erb&#10;rout&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;application.j&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/assets/javascripts/application.js&#10;appli&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/layouts/application.html.erb&#10;route&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -330,33 +322,34 @@
       <workItem from="1523689107758" duration="33000" />
       <workItem from="1523720156582" duration="128000" />
       <workItem from="1523824392622" duration="8577000" />
-      <workItem from="1523883335853" duration="7711000" />
+      <workItem from="1523883335853" duration="10392000" />
+      <workItem from="1524005019963" duration="4583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42464000" />
+    <option name="totallyTimeSpent" value="49728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="752" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31240544" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31694403" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50907713" side_tool="true" weight="0.32868218" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49092284" visible="true" weight="0.32868218" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -696,22 +689,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/my_portfolio.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        <state relative-caret-position="80">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/my_portfolio.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -719,13 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
