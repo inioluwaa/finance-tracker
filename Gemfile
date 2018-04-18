@@ -12,6 +12,7 @@ gem 'material_icons'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 gem 'devise'
+gem 'byebug'
 gem 'twitter-bootstrap-rails'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views'
