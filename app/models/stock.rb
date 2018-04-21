@@ -7,7 +7,7 @@ class Stock < ApplicationRecord
           last_price: looked_up_stock.latest_price)
     rescue Exception => e
       return nil
-      end
+    end
   end
 
 end
