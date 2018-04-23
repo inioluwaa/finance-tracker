@@ -16,10 +16,14 @@
  *= require_self
  */
 
-.results-block{
+.results-block {
     display: inline-block;
 }
 
-.no-padding{
+.no-padding {
     padding: 0 !important;
+}
+
+.left-padding {
+    padding-left: 15px !important;
 }
