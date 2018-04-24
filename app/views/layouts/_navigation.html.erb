@@ -15,7 +15,7 @@
         </ul>
         <ul class="nav navbar-right col-md-4">
           <li class="col-md-8 user-name text-right">
-            <i class="material-icons " style="font-size: 15px">account_circle</i>
+            <i class="fa fa-user"></i>
             <%= current_user.full_name.present? ? current_user.full_name : current_user.email %>
           </li>
           <li class="col-md-4 logout"><%= link_to 'Logout', destroy_user_session_path,

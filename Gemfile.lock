@@ -81,6 +81,8 @@ GEM
     erubi (1.7.1)
     execjs (2.7.0)
     ffi (1.9.23-x64-mingw32)
+    font-awesome-sass (4.5.0)
+      sass (>= 3.2)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     http-cookie (1.0.3)
@@ -232,6 +234,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   devise
   devise-bootstrap-views
+  font-awesome-sass
   jbuilder (~> 2.5)
   jquery-rails
   material_icons
