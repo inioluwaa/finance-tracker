@@ -7,4 +7,6 @@ Rails.application.routes.draw do
   get 'my_friends', to: 'users#my_friends'
 
   resources :user_stocks, only: %i[create destroy]
+  resources :users, only: %i[show]
+  resources :friendships
 end
