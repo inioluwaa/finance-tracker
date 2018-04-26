@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b697c37-a7ad-4ba6-bbf9-dc157bc7f85b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/friends/_result.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/friends/_result.js.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/stocks_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/friends/_lookup.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/_lookup.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/friends/_result.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/_result.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,16 +39,16 @@
         <entry file="file://$PROJECT_DIR$/app/views/users/my_portfolio.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="22" column="6" lean-forward="true" selection-start-line="20" selection-end-line="22" selection-end-column="6" />
+              <caret line="22" column="6" selection-start-line="20" selection-end-line="22" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="users_controller.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="users_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+            <state relative-caret-position="112">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -57,8 +56,17 @@
       <file leaf-file-name="_result.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/friends/_result.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state relative-caret-position="272">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="58" column="53" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -68,24 +76,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
               <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_result.js.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/users/_result.js.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_result.js.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/friends/_result.js.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="42" selection-start-column="42" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -125,13 +115,13 @@
         <option value="$PROJECT_DIR$/app/views/layouts/_navigation.html.erb" />
         <option value="$PROJECT_DIR$/app/views/users/my_friends.html.erb" />
         <option value="$PROJECT_DIR$/app/views/users/my_portfolio.html.erb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/controllers/stocks_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/friends/_result.html.erb" />
         <option value="$PROJECT_DIR$/app/views/friends/_lookup.html.erb" />
         <option value="$PROJECT_DIR$/app/views/friends/_result.js.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/app/views/friends/_result.html.erb" />
       </list>
     </option>
   </component>
@@ -140,6 +130,11 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="27" />
@@ -153,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
@@ -293,14 +287,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
-    <property name="SearchEverywhereHistoryKey" value="_lis&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/stocks/_list.html.erb&#10;rou&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;navi&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/layouts/_navigation.html.erb&#10;my&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/users/my_friends.html.erb&#10;frien&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/models/friendship.rb&#10;user&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/controllers/users_controller.rb&#10;rout&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;scss&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/assets/stylesheets/application.css.scss&#10;gem&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/Gemfile&#10;inde&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/welcome/index.html.erb&#10;applic&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/layouts/application.html.erb&#10;r&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;route&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;resu&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/users/_result.html.erb&#10;routes&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;gemfile&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/Gemfile&#10;sch&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/db/schema.rb&#10;stock&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/models/stock.rb&#10;application.j&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/assets/javascripts/application.js&#10;appli&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/layouts/application.html.erb" />
+    <property name="SearchEverywhereHistoryKey" value="rout&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;route&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;user&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/models/user.rb&#10;_lis&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/stocks/_list.html.erb&#10;rou&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;navi&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/layouts/_navigation.html.erb&#10;my&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/users/my_friends.html.erb&#10;frien&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/models/friendship.rb&#10;scss&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/assets/stylesheets/application.css.scss&#10;gem&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/Gemfile&#10;inde&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/welcome/index.html.erb&#10;applic&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/layouts/application.html.erb&#10;r&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;resu&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/users/_result.html.erb&#10;routes&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;gemfile&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/Gemfile&#10;sch&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/db/schema.rb&#10;stock&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/models/stock.rb&#10;application.j&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/assets/javascripts/application.js&#10;appli&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/layouts/application.html.erb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -430,28 +426,29 @@
       <workItem from="1524173520379" duration="5172000" />
       <workItem from="1524242542738" duration="1590000" />
       <workItem from="1524284581966" duration="28877000" />
-      <workItem from="1524520004167" duration="23585000" />
+      <workItem from="1524520004167" duration="25104000" />
+      <workItem from="1524775528155" duration="795000" />
+      <workItem from="1524776603128" duration="2653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115283000" />
+    <option name="totallyTimeSpent" value="120250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="7" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3494705" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51134646" side_tool="true" weight="0.3007752" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32868218" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.48865354" visible="true" weight="0.3007752" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33888048" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.48865354" visible="true" weight="0.3007752" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -460,6 +457,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -736,24 +734,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/my_friends.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3">
           <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
@@ -767,7 +751,7 @@
     <entry file="file://$PROJECT_DIR$/app/views/users/my_portfolio.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="22" column="6" lean-forward="true" selection-start-line="20" selection-end-line="22" selection-end-column="6" />
+          <caret line="22" column="6" selection-start-line="20" selection-end-line="22" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -785,34 +769,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/friends/_result.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/friends/_lookup.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/_result.js.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -823,10 +783,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/_result.js.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/friends/_lookup.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        <state relative-caret-position="112">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/friends/_result.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="58" column="53" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
         </state>
       </provider>
     </entry>
