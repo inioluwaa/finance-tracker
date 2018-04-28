@@ -20,4 +20,8 @@ class UsersController < ApplicationController
       format.js { render partial: 'friends/result' }
     end
   end
+
+  def add_friend
+
+  end
 end
