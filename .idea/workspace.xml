@@ -14,28 +14,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stocks_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="registrations_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/user/registrations_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="my_portfolio.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/users/my_portfolio.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="275">
               <caret line="22" column="6" selection-start-line="20" selection-end-line="22" selection-end-column="6" />
             </state>
           </provider>
@@ -44,8 +26,8 @@
       <file leaf-file-name="users_controller.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="195">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -53,8 +35,8 @@
       <file leaf-file-name="_result.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/friends/_result.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="160">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -142,7 +124,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="27" />
     <option name="y" value="96" />
     <option name="width" value="1346" />
@@ -435,16 +417,15 @@
       <workItem from="1524520004167" duration="25104000" />
       <workItem from="1524775528155" duration="795000" />
       <workItem from="1524776603128" duration="4544000" />
-      <workItem from="1524953534154" duration="606000" />
+      <workItem from="1524953534154" duration="5934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122747000" />
+    <option name="totallyTimeSpent" value="128075000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="752" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3547655" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -454,7 +435,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32868218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.48789713" visible="true" weight="0.3007752" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.48789713" visible="true" weight="0.3007752" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -734,31 +715,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/user/registrations_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/my_friends.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3">
           <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/my_portfolio.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="6" selection-start-line="20" selection-end-line="22" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -797,24 +757,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/friends/_lookup.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="928">
           <caret line="58" column="53" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/friends/_result.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -825,10 +771,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/user/registrations_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/stocks_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/my_portfolio.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="22" column="6" selection-start-line="20" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/friends/_lookup.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/friends/_result.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="195">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
         </state>
       </provider>
     </entry>
