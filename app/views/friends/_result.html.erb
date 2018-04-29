@@ -13,7 +13,7 @@
             <tr>
               <td><strong>Name: </strong><%= user.full_name %></td>
               <td><strong>Email: </strong><%= user.email %></td>
-              <td><strong>Profile: </strong><%= link_to 'View Profile', '#',
+              <td><strong>Profile: </strong><%= link_to 'View Profile', user_path(user),
                                                         class: 'btn btn-xs btn-success' %>
 
               <% if current_user.not_friends_with?(user.id) %>
