@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b697c37-a7ad-4ba6-bbf9-dc157bc7f85b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/friends/_result.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/_result.html.erb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -288,7 +285,7 @@
     <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
     <property name="SearchEverywhereHistoryKey" value="rout&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;route&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;user&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/models/user.rb&#10;_lis&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/stocks/_list.html.erb&#10;rou&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;navi&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/layouts/_navigation.html.erb&#10;my&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/users/my_friends.html.erb&#10;frien&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/models/friendship.rb&#10;scss&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/assets/stylesheets/application.css.scss&#10;gem&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/Gemfile&#10;inde&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/welcome/index.html.erb&#10;applic&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/layouts/application.html.erb&#10;r&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;resu&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/users/_result.html.erb&#10;routes&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/config/routes.rb&#10;gemfile&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/Gemfile&#10;sch&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/db/schema.rb&#10;stock&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/models/stock.rb&#10;application.j&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/assets/javascripts/application.js&#10;appli&#9;FILE&#9;file://C:/Users/Inioluwa/RubymineProjects/My personal stuffs/finance-tracker/app/views/layouts/application.html.erb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Nk-bloss" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
@@ -423,18 +420,17 @@
       <workItem from="1524520004167" duration="25104000" />
       <workItem from="1524775528155" duration="795000" />
       <workItem from="1524776603128" duration="4544000" />
-      <workItem from="1524953534154" duration="8815000" />
+      <workItem from="1524953534154" duration="9879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130956000" />
+    <option name="totallyTimeSpent" value="132020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3547655" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3547655" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5121029" side_tool="true" weight="0.3007752" />
@@ -443,7 +439,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32868218" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.48789713" visible="true" weight="0.3007752" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.48789713" visible="true" weight="0.3007752" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
